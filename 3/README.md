@@ -2,7 +2,7 @@
 - Add prometheus data source to grafana, should be connected through basic auth
 - Screenshot of working data source config
 - Import & apply dashboard for node_exporter
-- Screenshot of dashboard of nodes with live metrics shown.
+- Screenshot of dashboard of nodes with live metrics shown.<br/>
 Step:<br/>
 To install the latest OSS release:<br/>
 Install the apt-transport-https package on Debian before proceeding<br/>
@@ -86,7 +86,7 @@ After clcik on load it will redirct to importing dashbord page <br/>
 
 ![importga](https://user-images.githubusercontent.com/53372486/144652068-82a2730e-86de-46d7-8430-ab6423d4608b.png)<br/>
 
-Dashbord of node export<br/>
+Dashbord of node exporter<br/>
 
 ![nodeexporter](https://user-images.githubusercontent.com/53372486/144652081-9e1df118-677f-4160-acbc-47500aaa814d.png)
 

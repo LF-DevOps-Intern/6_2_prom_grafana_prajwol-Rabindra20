@@ -1,9 +1,9 @@
 1. Install Prometheus Server
 - Configuration basic authentication username/password
 - Screenhot of login prompt while trying to access prometheus
-- Screenshot of prometheus dashboard
+- Screenshot of prometheus dashboard<br/>
 Steps:<br/>
-Download promethus
+Download promethus<br/>
 ```
 curl -LO https://github.com/prometheus/prometheus/releases/download/v2.31.1/prometheus-2.31.1.linux-amd64.tar.gz<br/>
 ```
