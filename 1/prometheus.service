@@ -1,0 +1,12 @@
+[Unit]
+Description=prometheus service
+
+[Service]
+ExecStart=/home/rabindra/prometheus-2.31.1.linux-amd64/prometheus \
+           --config.file=/home/rabindra/prometheus-2.31.1.linux-amd64/promethe> \
+           --web.config.file=/home/rabindra/prometheus-2.31.1.linux-amd64/web.yml> \
+
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
