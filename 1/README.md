@@ -3,9 +3,9 @@
 - Screenhot of login prompt while trying to access prometheus
 - Screenshot of prometheus dashboard
 Steps:<br/>
-Install promethus
+Download promethus
 ```
-curl LO https://github.com/prometheus/prometheus/releases/download/v2.31.1/prometheus-2.31.1.linux-amd64.tar.gz<br/>
+curl -LO https://github.com/prometheus/prometheus/releases/download/v2.31.1/prometheus-2.31.1.linux-amd64.tar.gz<br/>
 ```
 ![install](https://user-images.githubusercontent.com/53372486/144557627-b9ff723c-a02d-40de-be66-91859d79a3d4.png)<br/>
 
@@ -112,7 +112,6 @@ Dashbord<br/>
 
 ![dashbord](https://user-images.githubusercontent.com/53372486/144558327-81e83058-c4a6-47f8-a9fe-fe187d9e40cc.png)
 
-Target <br/>
-click on status > targets <br/>
 
-![target](https://user-images.githubusercontent.com/53372486/144557646-f8738bf5-7920-4dd5-983b-60cd202347c2.png)
+
+
