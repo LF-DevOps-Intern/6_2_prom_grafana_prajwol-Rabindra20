@@ -15,10 +15,16 @@ tar xvf prometheus-2.31.1.linux-amd64.tar.gz
 ```
 ![unzip](https://user-images.githubusercontent.com/53372486/144557620-7bd3a842-2e71-4097-b1b7-a130f9906ebc.png)<br/>
 
-Change dir
+Change dir<br/>
 ```
 cd prometheus-2.31.1.linux-amd64.tar.gz
 ```
+Run prometheus<br/>
+```
+./prometheus
+```
+OR<br/>
+
 Add Prometheus services so we can start with systemctl command<br/>
 change dir<br/>
 ```
